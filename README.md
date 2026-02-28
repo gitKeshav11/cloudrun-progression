@@ -15,6 +15,7 @@ capabilities that let you implement advanced release management techniques with
 little effort.
 
 
+
 -   Create your Cloud Run service
 -   Enable a developer branch
 -   Implement canary testing
